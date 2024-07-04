@@ -1,0 +1,12 @@
+.border {
+  height: 200px;
+  width: auto;
+  border: 2px solid red !important;
+  background-color: wheat;
+}
+.border1 {
+  height: 100px;
+  width: auto;
+  border: 2px solid red !important;
+  background-color: wheat;
+}
